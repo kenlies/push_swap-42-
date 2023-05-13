@@ -7,6 +7,8 @@ For the algorithm I didn't use any conventional sorting method, instead I follow
 
 My implementation passed this project with full scores, although, noted by my peers, it isn't very portable. It is just optimized very well to this particular task of number sorting.
 
+Bonus included a checker program for checking if the numbers are actually sorted after reading the instructions printed by push_swap from the standard output.
+
 Some scores using a tester found online:
 
 <img width="546" alt="Screen Shot 2023-05-13 at 8 14 38 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/feb6a379-3553-4667-b211-6f2b0050d1cc">
