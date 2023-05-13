@@ -7,5 +7,7 @@ For the algorithm I didn't use any conventional sorting method, instead I follow
 
 My implementation passed this project with full scores, although, noted by my peers, it isn't very portable. It is just optimized very well to this particular task of number sorting.
 Some scores:
+
 <img width="546" alt="Screen Shot 2023-05-13 at 8 14 38 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/feb6a379-3553-4667-b211-6f2b0050d1cc">
+
 <img width="546" alt="Screen Shot 2023-05-13 at 8 15 14 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/5142b6a9-17ad-4121-844e-0d5ecdb2e0ab">
