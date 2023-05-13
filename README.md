@@ -12,3 +12,5 @@ Some scores using a tester found online:
 <img width="546" alt="Screen Shot 2023-05-13 at 8 14 38 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/feb6a379-3553-4667-b211-6f2b0050d1cc">
 
 <img width="546" alt="Screen Shot 2023-05-13 at 8 15 14 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/5142b6a9-17ad-4121-844e-0d5ecdb2e0ab">
+
+<img width="637" alt="Screen Shot 2023-05-13 at 7 10 01 PM" src="https://github.com/kenlies/push_swap-42-/assets/97135325/af6b950a-ee7c-4e96-8ac7-dbe089c2c87c">
